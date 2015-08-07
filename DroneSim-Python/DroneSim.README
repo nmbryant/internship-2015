@@ -1,0 +1,39 @@
+Components of the Drone Simulation
+1) DweetController.py
+	-Listens to a config channel on Dweet.io that tells it when to launch or disable a simulated drone
+2) DweetReceiver.py
+	-Gets the Dweet.io thing names for all the currently running simulated drones
+	-Aggregates the drone data and dweets it out to the receiver Dweet.io channel
+3) SimulatedDrone.py
+	-Created by the DweetController
+	-While running, dweets out simulated drone data to the Dweet.io name given by the DweetController
+4) DweetMonitor.py
+	-Gets the Dweet.io thing names for all the currently running simulated drones
+	-Stores all the drone dweet data in Cassandra database
+	-Reads in config.json to configure the Cassandra database
+5) Master.py
+	-Starts up the DweetController, DweetReceiver and DweetMonitor all as separate threads
+	-Reads in dweet_config.json to set all the dweet channel names used by the system
+
+Configuring the Drone Simulation
+1) config.json
+	-Used to configure the DweetMonitor
+	-Contains the Cassandra database configuration
+	-Reads in the name of the DweetController that it will listen to in order to get the drone dweet names
+2) dweet_config.json
+	-Used to get the dweet thing names for the different components of the system
+	-drone_config - This is the config Dweet.io channel that the DweetController will listen to that tells it when to launch/disable drones
+	-drone_name - This is the base name that the simulated drones will have on Dweet.io
+	-dweet_controller - This is the Dweet.io channel that the Controller will send dweets to when it has launched or disabled drones
+	-dweet_receiver - This is the Dweet.io channel that the DweetReceiver will send out the aggregated data
+
+Running the Drone Simulation
+1) Run Master.py
+	-Run command 'python Master.py'
+2) Accessing logs
+	-Logs are outputted to dronesim.log
+	-Log is initialized in the DweetController run() function
+
+Other
+1) Pics folders
+	-These folders contains the images that the simulated drones dweet out for the various use cases

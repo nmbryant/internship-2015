@@ -1,0 +1,259 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="dronesim.activity.UseCaseSelectionActivity"
+    android:background="#4C4C4C"
+    android:id="@+id/UseCaseLayout">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/governmentImageButton"
+        android:src="@drawable/government_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_below="@+id/governmentLabelText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Government"
+        android:id="@+id/governmentLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Agriculture"
+        android:id="@+id/agricultureLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_above="@+id/agricultureImageButton"
+        android:layout_alignLeft="@+id/agricultureImageButton"
+        android:layout_alignStart="@+id/agricultureImageButton"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/agricultureImageButton"
+        android:src="@drawable/agriculture_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_alignTop="@+id/governmentImageButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Insurance"
+        android:id="@+id/insuranceLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_alignTop="@+id/mediaLabelText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/insuranceImageButton"
+        android:src="@drawable/insurance_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Media"
+        android:id="@+id/mediaLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_above="@+id/insuranceImageButton"
+        android:layout_alignLeft="@+id/agricultureImageButton"
+        android:layout_alignStart="@+id/agricultureImageButton"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mediaImageButton"
+        android:src="@drawable/media_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_below="@+id/mediaLabelText"
+        android:layout_alignLeft="@+id/mediaLabelText"
+        android:layout_alignStart="@+id/mediaLabelText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Energy"
+        android:id="@+id/energyLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_marginTop="79dp"
+        android:layout_below="@+id/insuranceImageButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/energyImageButton"
+        android:src="@drawable/energy_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_below="@+id/energyLabelText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Healthcare"
+        android:id="@+id/healthcareLabelText"
+        android:textColor="#CCCCCC"
+        android:layout_above="@+id/energyImageButton"
+        android:layout_alignLeft="@+id/mediaImageButton"
+        android:layout_alignStart="@+id/mediaImageButton"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/healthcareImageButton"
+        android:src="@drawable/healthcare_use_case_image"
+        android:backgroundTint="#333333"
+        android:layout_alignBottom="@+id/energyImageButton"
+        android:layout_alignLeft="@+id/healthcareLabelText"
+        android:layout_alignStart="@+id/healthcareLabelText" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/govermentStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/governmentImageButton"
+        android:layout_alignRight="@+id/governmentImageButton"
+        android:layout_alignEnd="@+id/governmentImageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/agricultureStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_alignTop="@+id/govermentStatusImage"
+        android:layout_alignRight="@+id/agricultureImageButton"
+        android:layout_alignEnd="@+id/agricultureImageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/insuranceStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/insuranceImageButton"
+        android:layout_alignRight="@+id/insuranceImageButton"
+        android:layout_alignEnd="@+id/insuranceImageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mediaStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/mediaImageButton"
+        android:layout_alignRight="@+id/mediaImageButton"
+        android:layout_alignEnd="@+id/mediaImageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/energyStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/energyImageButton"
+        android:layout_alignRight="@+id/energyImageButton"
+        android:layout_alignEnd="@+id/energyImageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/healthcareStatusImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/healthcareImageButton"
+        android:layout_alignRight="@+id/healthcareImageButton"
+        android:layout_alignEnd="@+id/healthcareImageButton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView"
+        android:layout_alignTop="@+id/govermentStatusImage"
+        android:layout_alignRight="@+id/energyLabelText"
+        android:layout_alignEnd="@+id/energyLabelText"
+        android:textColor="#CCCCCC" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView2"
+        android:textColor="#CCCCCC"
+        android:layout_alignTop="@+id/agricultureStatusImage"
+        android:layout_alignRight="@+id/mediaLabelText"
+        android:layout_alignEnd="@+id/mediaLabelText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView3"
+        android:textColor="#CCCCCC"
+        android:layout_below="@+id/insuranceImageButton"
+        android:layout_alignRight="@+id/energyLabelText"
+        android:layout_alignEnd="@+id/energyLabelText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView4"
+        android:textColor="#CCCCCC"
+        android:layout_below="@+id/mediaImageButton"
+        android:layout_alignRight="@+id/mediaLabelText"
+        android:layout_alignEnd="@+id/mediaLabelText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView5"
+        android:textColor="#CCCCCC"
+        android:layout_below="@+id/energyImageButton"
+        android:layout_alignRight="@+id/energyLabelText"
+        android:layout_alignEnd="@+id/energyLabelText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:id="@+id/textView6"
+        android:textColor="#CCCCCC"
+        android:layout_below="@+id/healthcareImageButton"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_alignStart="@+id/textView4" />
+
+</RelativeLayout>
+<!-- From: file:/home/nathan/Desktop/New_IoT_Repo/Android/DroneSim/app/src/main/res/layout/activity_use_case_selection.xml -->

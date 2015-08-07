@@ -1,0 +1,6 @@
+{
+  "drone_config" : "DroneConfig",
+  "drone_name" : "dweet_client_",
+  "dweet_controller" : "DweetController",
+  "dweet_receiver" : "DweetReceiver"
+}

@@ -1,0 +1,73 @@
+NOTE: The DroneSim folder is the current directory for the app, the others have been deprecated
+
+Android App Modes - Selection in Main Activity
+1) Launch Drone
+	-Used to launch multiple simulated drones in various locations that can be chosen
+	-After a drone is launched, it can be selected to view some of its data
+	-Relevant files:
+		-LaunchDroneActivity.java
+		-activity_drone_launch.xml
+		-StartDroneTask.java
+		-StopDroneTask.java
+		-GatherDataTask.java
+2) City Demo
+	-Used to launch multiple simulated drones in locations specified by the various buttons
+	-Indicates the status of a simulated drone (launched/disabled) with a plane icon
+	-Relevant files:
+		-CityLaunchActivity.java
+		-activity_country_launch.xml
+		-StartDroneTask.java
+		-StopDroneTask.java
+3) Use Case Games
+	-Gameification project for the innovation center
+	-Users can select a use case to launch a drone for
+	-After launching a simulated drone, brings up a map and controls and the user must fulfill the goal of the particular minigame
+	-When the minigame is completed, a results screen is displayed that provides some details of the use case
+	-Keeps track of which use cases have been completed with a plane icon and displays a completion screen once all use cases are finished
+	-Relevant files:
+		-Activities:
+			-UseCaseSelectionActivity.java
+			-DroneControlActivity.java
+			-ResultsScreenActivity.java
+			-CompletionActivity.java
+		-Tasks:
+			-StartDroneTask.java
+			-StopDroneTask.java
+			-MoveGameObjectsTask.java
+			-SendGameCoordinatesTask.java
+		-Layouts:
+			-activity_use_case_selection.xml
+			-activity_drone_control.xml
+			-activity_results_screen.xml
+			-activity_completion.xml
+		-Other:
+			-IMinigame.java
+			-IMovementMinigame.java
+			-AgricultureMinigame.java
+			-BasicMinigame.java
+			-EnergyMinigame.java
+			-GovernmentMinigame.java
+			-HealthcareMinigame.java
+			-InsuranceMinigame.java
+			-MediaMinigame.java
+		
+4) Choose Existing
+	-Allows user to type in a Dweet.io thing and displays the data from that device
+	-Compatible with locks and keys
+	-Relevant files:
+		-DataFromExisitingActivity.java
+		-activity_data_existing.xml
+		-ChooseExistingActivity.java
+		-activity_choose_existing.xml
+		-ExistingGatherDataTask.java
+		-CheckDweetThingTask.java
+
+Running the Android App
+1) Configuring to work with simulation
+	-Open up DroneSim/app/src/main/res/values/strings.xml
+	-Set 'config_dweet_name' to the config Dweet channel that is used by the simulation
+	-Set 'controller_dweet_name' to the Dweet channel that is used by the DweetController in the simulation
+2) Start the simulation
+3) Start the Android app using an emulator or actual device
+	-NOTE: The 'Test Map' game mode will not work on an emulator due to lack of Google Maps
+		

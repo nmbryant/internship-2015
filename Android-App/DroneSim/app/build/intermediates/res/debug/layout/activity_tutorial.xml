@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#4C4C4C">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="[Use Case Title]"
+        android:id="@+id/useCaseTitleText"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold"
+        android:textColor="#CCCCCC"
+        android:paddingLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="[Use Case]"
+        android:id="@+id/useCaseText"
+        android:layout_below="@+id/useCaseTitleText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#CCCCCC"
+        android:paddingTop="10dp"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textStyle="bold"
+        android:paddingLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="[Use Case Description]"
+        android:id="@+id/useCaseDescriptionText"
+        android:layout_below="@+id/useCaseText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#CCCCCC"
+        android:paddingTop="10dp"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:paddingLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="[Game Description]"
+        android:id="@+id/gameDescriptionText"
+        android:layout_below="@+id/useCaseDescriptionText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#CCCCCC"
+        android:paddingTop="20dp"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:paddingLeft="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start!"
+        android:id="@+id/finishTutorialButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:backgroundTint="#333333" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tuturialImage1"
+        android:src="@drawable/drone_marker"
+        android:layout_below="@+id/gameDescriptionText"
+        android:layout_toLeftOf="@+id/finishTutorialButton"
+        android:layout_toStartOf="@+id/finishTutorialButton"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="[Image 1 Description]"
+        android:id="@+id/tutorialImage1Text"
+        android:textColor="#CCCCCC"
+        android:paddingTop="20dp"
+        android:layout_alignTop="@+id/tuturialImage1"
+        android:layout_toRightOf="@+id/tuturialImage1"
+        android:layout_toEndOf="@+id/tuturialImage1"
+        android:paddingLeft="10dp"
+        android:textSize="@dimen/abc_text_size_medium_material" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tutorialImage2"
+        android:src="@drawable/drone_marker"
+        android:layout_below="@+id/tuturialImage1"
+        android:layout_alignLeft="@+id/tuturialImage1"
+        android:layout_alignStart="@+id/tuturialImage1"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="[Image 2 Description]"
+        android:id="@+id/tutorialImage2Text"
+        android:textColor="#CCCCCC"
+        android:paddingTop="30dp"
+        android:layout_alignTop="@+id/tutorialImage2"
+        android:layout_toRightOf="@+id/tutorialImage2"
+        android:layout_toEndOf="@+id/tutorialImage2"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tutorialImage3"
+        android:src="@drawable/drone_marker"
+        android:layout_below="@+id/tutorialImage2"
+        android:layout_alignLeft="@+id/tutorialImage2"
+        android:layout_alignStart="@+id/tutorialImage2"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="[Image 3 Description]"
+        android:id="@+id/tutorialImage3Text"
+        android:textColor="#CCCCCC"
+        android:paddingTop="30dp"
+        android:paddingLeft="10dp"
+        android:layout_alignTop="@+id/tutorialImage3"
+        android:layout_toRightOf="@+id/tutorialImage3"
+        android:layout_toEndOf="@+id/tutorialImage3" />
+
+</RelativeLayout><!-- From: file:/home/nathan/Desktop/New_IoT_Repo/Android/DroneSim/app/src/main/res/layout/activity_tutorial.xml -->

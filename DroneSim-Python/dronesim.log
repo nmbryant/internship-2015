@@ -1,0 +1,2154 @@
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 266, in update_address
+    location = geolocator.reverse(location_string)
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py", line 247, in reverse
+    self._call_geocoder(url, timeout=timeout), exactly_one
+  File "/usr/local/lib/python2.7/dist-packages/geopy/geocoders/base.py", line 159, in _call_geocoder
+    raise GeocoderTimedOut('Service timed out')
+GeocoderTimedOut: Service timed out
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+
+ERROR:root:Caught exception updating address, keeping previous address
+ERROR:root:Traceback (most recent call last):
+  File "/home/nathan/Desktop/New_IoT_Repo/dweet/DroneSim-Python/SimulatedDrone.py", line 269, in update_address
+    urllib.urlencode(self.address)
+  File "/usr/lib/python2.7/urllib.py", line 1318, in urlencode
+    raise TypeError
+TypeError: not a valid non-string sequence or mapping object
+

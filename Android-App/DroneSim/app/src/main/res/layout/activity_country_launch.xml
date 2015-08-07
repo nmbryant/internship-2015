@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4C4C4C"
+>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="145dp"
+        android:background="#4C4C4C">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="145dp"
+            android:background="#4C4C4C"
+            android:id="@+id/relativeLayout">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="150dp"
+                android:background="#4C4C4C">
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/honoluluButton"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp"
+                    android:src="@drawable/honolulu_final"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:backgroundTint="#333333" />
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/anchorageButton"
+                    android:layout_marginRight="22dp"
+                    android:layout_marginEnd="22dp"
+                    android:src="@drawable/anchorage_final"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:backgroundTint="#333333" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/honoluluPlaneImage"
+                    android:src="@drawable/verizon_red_plane_no_ground_icon"
+                    android:layout_below="@+id/honoluluButton"
+                    android:layout_alignRight="@+id/honoluluButton"
+                    android:layout_alignEnd="@+id/honoluluButton" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/anchoragePlaneImage"
+                    android:src="@drawable/verizon_red_plane_no_ground_icon"
+                    android:layout_below="@+id/anchorageButton"
+                    android:layout_alignRight="@+id/anchorageButton"
+                    android:layout_alignEnd="@+id/anchorageButton" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Honolulu"
+                    android:id="@+id/honoluluTextView"
+                    android:layout_below="@+id/honoluluButton"
+                    android:layout_alignLeft="@+id/honoluluButton"
+                    android:layout_alignStart="@+id/honoluluButton"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold|italic" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Anchorage"
+                    android:id="@+id/textView8"
+                    android:layout_below="@+id/anchorageButton"
+                    android:layout_alignLeft="@+id/anchorageButton"
+                    android:layout_alignStart="@+id/anchorageButton"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold|italic" />
+            </RelativeLayout>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/newyorkButton"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:src="@drawable/newyork_final"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:backgroundTint="#333333" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/bostonButton"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="22dp"
+                android:layout_marginEnd="22dp"
+                android:src="@drawable/boston_final"
+                android:backgroundTint="#333333" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/newyorkPlaneImage"
+                android:src="@drawable/verizon_red_plane_no_ground_icon"
+                android:layout_below="@+id/newyorkButton"
+                android:layout_alignRight="@+id/newyorkButton"
+                android:layout_alignEnd="@+id/newyorkButton" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/bostonPlaneImage"
+                android:src="@drawable/verizon_red_plane_no_ground_icon"
+                android:layout_below="@+id/bostonButton"
+                android:layout_alignRight="@+id/bostonButton"
+                android:layout_alignEnd="@+id/bostonButton" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NYC"
+                android:id="@+id/newyorkTextView"
+                android:layout_below="@+id/newyorkButton"
+                android:layout_alignLeft="@+id/newyorkButton"
+                android:layout_alignStart="@+id/newyorkButton"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Boston"
+                android:id="@+id/bostonTextView"
+                android:textColor="#FFFFFF"
+                android:layout_alignTop="@+id/newyorkTextView"
+                android:layout_alignLeft="@+id/bostonButton"
+                android:layout_alignStart="@+id/bostonButton"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold|italic" />
+        </RelativeLayout>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/wildlifeButton"
+            android:layout_marginLeft="22dp"
+            android:layout_marginStart="22dp"
+            android:src="@drawable/buffalo_final"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:backgroundTint="#333333" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/wildlifePlaneImage"
+            android:src="@drawable/verizon_red_plane_no_ground_icon"
+            android:layout_below="@+id/wildlifeButton"
+            android:layout_alignRight="@+id/wildlifeButton"
+            android:layout_alignEnd="@+id/wildlifeButton"
+            android:focusableInTouchMode="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seattleButton"
+            android:layout_marginRight="22dp"
+            android:layout_marginEnd="22dp"
+            android:src="@drawable/seattle_final"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:backgroundTint="#333333" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seattlePlaneImage"
+            android:src="@drawable/verizon_red_plane_no_ground_icon"
+            android:layout_below="@+id/seattleButton"
+            android:layout_alignRight="@+id/seattleButton"
+            android:layout_alignEnd="@+id/seattleButton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Montana"
+            android:id="@+id/wildlifeTextView"
+            android:layout_below="@+id/wildlifeButton"
+            android:layout_alignLeft="@+id/wildlifeButton"
+            android:layout_alignStart="@+id/wildlifeButton"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seattle"
+            android:id="@+id/seattleTextView"
+            android:layout_below="@+id/seattleButton"
+            android:layout_alignLeft="@+id/seattleButton"
+            android:layout_alignStart="@+id/seattleButton"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold|italic" />
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/kansasButton"
+        android:src="@drawable/kansas_final"
+        android:focusableInTouchMode="true"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:backgroundTint="#333333"
+        android:clickable="false" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/miamiPlaneImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/kansasButton"
+        android:layout_alignRight="@+id/kansasButton"
+        android:layout_alignEnd="@+id/kansasButton" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/houstonButton"
+        android:src="@drawable/houston_final"
+        android:layout_marginRight="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:backgroundTint="#333333" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sanFranPlaneImage"
+        android:src="@drawable/verizon_red_plane_no_ground_icon"
+        android:layout_below="@+id/houstonButton"
+        android:layout_alignRight="@+id/houstonButton"
+        android:layout_alignEnd="@+id/houstonButton"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Kansas"
+        android:id="@+id/miamiTextView"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/kansasButton"
+        android:layout_alignLeft="@+id/kansasButton"
+        android:layout_alignStart="@+id/kansasButton"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Houston"
+        android:id="@+id/sanFranTextView"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/houstonButton"
+        android:layout_alignLeft="@+id/houstonButton"
+        android:layout_alignStart="@+id/houstonButton"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>

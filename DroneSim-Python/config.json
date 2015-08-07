@@ -1,0 +1,14 @@
+{
+  "cassandra_host_names" : ["cassandra"],
+  "cassandra_host_port" : "9042",
+  "cassandra_keyspace" : "mykeyspace",
+  "log_file" : "dweetmonitor.log",
+  "log_level" : "DEBUG",
+  "bookmark_file" : "dweetbmk.json",
+  "things" :[
+    { "name" : "ovi", "key" : "iot"}
+  ],
+  "sleep_time" : 30,
+  "sleep_incr" : 5,
+  "dweet_controller" : "DweetController"
+}

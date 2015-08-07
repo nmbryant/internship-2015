@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="countries">
+        <item>United States</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Canada</item>
+        <item>France</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>South Africa</item>
+    </string-array>
+    
+    <string-array name="latitudes">
+        <item>39.26628442213066</item>
+        <item>29.84064389983441</item>
+        <item>35.6894875</item>
+        <item>53.74871079689897</item>
+        <item>48.856614</item>
+        <item>-27.4269255</item>
+        <item>-33.8674869</item>
+        <item>-30.145127183376115</item>
+    </string-array>
+    
+    <string-array name="longitudes">
+        <item>-103.16162109375</item>
+        <item>107.05078125</item>
+        <item>139.69170639999993</item>
+        <item>-111.6650390625</item>
+        <item>2.3522219000000177</item>
+        <item>-55.94670759999997</item>
+        <item>151.20699020000006</item>
+        <item>22.7197265625</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Boston</item>
+        <item>NYC</item>
+        <item>Houston</item>
+        <item>Wildlife</item>
+        <item>Honolulu</item>
+        <item>Anchorage</item>
+        <item>Seattle</item>
+        <item>Kansas</item>
+    </string-array>
+
+    <string-array name="citylats">
+        <item>42.3600825</item>
+        <item>40.7282239</item>
+        <item>29.7604267</item>
+        <item>35.468196</item>
+        <item>21.3069444</item>
+        <item>61.2180556</item>
+        <item>47.6062095</item>
+        <item>38.01206965428874</item>
+    </string-array>
+
+    <string-array name="citylongs">
+        <item>-71.05888010000001</item>
+        <item>-73.79485160000002</item>
+        <item>-95.3698028</item>
+        <item>-98.527807</item>
+        <item>-157.85833330000003</item>
+        <item>-149.90027780000003</item>
+        <item>-122.3320708</item>
+        <item>-101.35848999023438</item>
+    </string-array>
+
+    <string-array name="use_cases">
+        <item>Healthcare</item>
+        <item>Agriculture</item>
+        <item>Insurance</item>
+        <item>Media</item>
+        <item>Energy</item>
+        <item>Government</item>
+    </string-array>
+
+    <string-array name="use_case_lats">
+        <item>29.7604267</item>
+        <item>35.468196</item>
+        <item>34.044069347027445</item>
+        <item>25.78639819222026</item>
+        <item>65.06170945774676</item>
+        <item>40.525548</item>
+    </string-array>
+
+    <string-array name="use_case_longs">
+        <item>-95.3698028</item>
+        <item>-98.527807</item>
+        <item>-118.26996400952339</item>
+        <item>-80.16766548156738</item>
+        <item>-147.81154990196228</item>
+        <item>-121.197748</item>
+    </string-array>
+
+    <string-array name="use_case_descriptions">
+        <item>Deliver health care supplies</item>
+        <item>Check up on the cattle</item>
+        <item>Assess the earthquake damage</item>
+        <item>Get a shot of the speedboat</item>
+        <item>Inspect the pipeline</item>
+        <item>Navigate the wildfire</item>
+    </string-array>
+
+
+</resources>
